@@ -1,6 +1,8 @@
 ```
 brew tap gnuhub/gnuhub
+brew update
 ```
 ```
 brew cask install sublime3
+brew cask install gnuhub-rdc
 ```
