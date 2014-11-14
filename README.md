@@ -8,4 +8,5 @@ brew cask install gnuhub-rdc
 brew cask install sametime
 brew cask install ibm-notes
 brew cask install ibm-internal-certificates
+brew cask install ibm-mobility-client
 ```
