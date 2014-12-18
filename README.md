@@ -13,4 +13,5 @@ brew cask install gnuhub-skype
 brew cask install gnuhub-boot2docker
 brew cask install gnuhub-java6
 brew cask install gnuhub-screenflow
+brew cask install gnuhub-chefdk
 ```
