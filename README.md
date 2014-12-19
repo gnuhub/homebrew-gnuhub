@@ -14,4 +14,5 @@ brew cask install gnuhub-boot2docker
 brew cask install gnuhub-java6
 brew cask install gnuhub-screenflow
 brew cask install gnuhub-chefdk
+brew cask install gnuhub-vmware-fusion
 ```
