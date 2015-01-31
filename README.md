@@ -16,5 +16,6 @@ brew cask install gnuhub-screenflow
 brew cask install gnuhub-chefdk
 brew cask install gnuhub-vmware-fusion
 brew cask install gnuhub-diff
+brew cask install gnuhub-apple-remote-desktop
 brew install gnuhub-openssl
 ```
