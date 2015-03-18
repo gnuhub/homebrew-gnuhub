@@ -17,5 +17,6 @@ brew cask install gnuhub-chefdk
 brew cask install gnuhub-vmware-fusion
 brew cask install gnuhub-diff
 brew cask install gnuhub-apple-remote-desktop
+brew cask install gnuhub-pycharm
 brew install gnuhub-openssl
 ```
