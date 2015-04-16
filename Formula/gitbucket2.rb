@@ -1,6 +1,6 @@
 class Gitbucket2 < Formula
   homepage "https://github.com/takezoe/gitbucket"
-  url "https://download.sf.net/gnuhub/gitbucket2.7.war"
+  url "https://download.sf.net/gnuhub/gitbucket.war"
   sha256 "23ce9310232129c5c48c0d5c269ce869e24c5d30ff4c59f0682f1b39f8712e80"
 
   head do
