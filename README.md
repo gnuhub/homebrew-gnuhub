@@ -20,4 +20,5 @@ brew cask install gnuhub-apple-remote-desktop
 brew cask install gnuhub-pycharm
 brew install gnuhub-openssl
 brew install gitbucket2
+brew cask install vmdk-mounter
 ```
