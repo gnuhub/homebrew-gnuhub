@@ -21,4 +21,5 @@ brew cask install gnuhub-pycharm
 brew install gnuhub-openssl
 brew install gitbucket2
 brew cask install vmdk-mounter
+brew cask install gnuhub-hex-fiend
 ```
