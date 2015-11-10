@@ -1,4 +1,4 @@
-cask :v1_1 => 'vmware-fusion' do
+cask :v1_1 => 'gnuhub-vmware-fusion' do
   version '8.0.2-3164312'
   sha256 'b7e48506a65ecc147ea596a23bfb56f73feaa1ec327ff78fbd2eeb5cb1f63e3f'
 
