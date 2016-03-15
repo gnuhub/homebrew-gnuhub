@@ -1,4 +1,4 @@
-cask :v1 => 'gnuhub-pycharm' do
+cask 'gnuhub-pycharm' do
   version '4.0.5'
   sha256 '102e1ad4980767e4312523101fcf439ce1952d5f2c32d670a3b98251612c957b'
 
