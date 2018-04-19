@@ -6,7 +6,7 @@ class Gitbucket2 < Formula
 
   head do
     url "https://github.com/takezoe/gitbucket.git"
-    depends_on :ant => :build
+    depends_on "ant"
   end
 
   def install
