@@ -7,7 +7,6 @@ cask 'gnuhub-hex-fiend' do
   appcast 'https://github.com/ridiculousfish/HexFiend/releases.atom'
   name 'Hex Fiend'
   homepage 'http://ridiculousfish.com/hexfiend/'
-  license :bsd
 
   app 'Hex Fiend.app'
 
